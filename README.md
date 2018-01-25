@@ -5,7 +5,5 @@ On Windows :
 Click on setup file and follow the instructions to install. Then have fun!
 
 On Linux :
-- To compile, use the following command line.
-  cmake .
-  make or make install
+- To compile, use the command line "cmake ." then "make" or "make install".
 - To launch, go in /indie_studio folder then use ./indie_studio command line. Have fun!
